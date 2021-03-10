@@ -1,0 +1,16 @@
+asgiref==3.3.1
+certifi==2020.6.20
+Django==3.1.7
+gunicorn==20.0.4
+mysql-connector-python==8.0.18
+mysqlclient==2.0.3
+Pillow==8.1.2
+pip==21.0.1
+protobuf==3.6.0
+psycopg2==2.8.6
+pytz==2021.1
+setuptools==54.1.1
+six==1.15.0
+sqlparse==0.4.1
+wheel==0.36.2
+wincertstore==0.2
